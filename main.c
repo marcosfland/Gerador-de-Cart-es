@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <locale.h>
 
 // Função para gerar um número de cartão de crédito aleatório
 long long generateCreditCardNumber() {
@@ -62,6 +63,7 @@ void generateExpirationDate(int *month, int *year) {
 }
 
 int main() {
+    setlocale(LC_ALL, "Portuguese");
     // Inicializa o gerador de números aleatórios
     srand(time(NULL));
 
