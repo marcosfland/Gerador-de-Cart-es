@@ -4,3 +4,5 @@ Este é um gerador de cartões de crédito desenvolvido para fins de prova de co
 O gerador de cartões de crédito funciona através da geração aleatória de números de cartão de crédito válidos, seguindo a lógica de algoritmos de validação de cartões. Ele pode ser utilizado para testar sistemas que envolvam o processamento de informações de cartões de crédito, como validação de dados e detecção de fraudes. 
 
 Lembre-se de utilizar este código apenas para fins educacionais e éticos, respeitando sempre a privacidade e segurança dos usuários.
+
+**Note to self**
